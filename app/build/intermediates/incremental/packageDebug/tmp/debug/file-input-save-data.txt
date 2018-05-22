@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Wed May 23 01:10:47 IDT 2018
+1.base=C\:\\Users\\User\\Google Drive\\Assignments\\Third Year\\2nd Semester\\postPC\\imagegallery\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\109
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=C\:\\Users\\User\\Google Drive\\Assignments\\Third Year\\2nd Semester\\postPC\\imagegallery\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\108
+1.path=classes.dex

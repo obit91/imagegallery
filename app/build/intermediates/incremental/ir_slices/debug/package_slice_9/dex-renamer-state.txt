@@ -1,0 +1,4 @@
+#Wed May 23 01:10:47 IDT 2018
+base.0=C\:\\Users\\User\\Google Drive\\Assignments\\Third Year\\2nd Semester\\postPC\\imagegallery\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\107
+path.0=classes.dex
+renamed.0=classes.dex
